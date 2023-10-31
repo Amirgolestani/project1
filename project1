@@ -1,0 +1,3 @@
+num1 = int(input("please enter your height :"))
+add = num1 * 10
+print("You are ",add,"mm tall")
